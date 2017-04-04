@@ -27,7 +27,7 @@
             <div id="signup">
                 <h1>Sign Up for Free</h1>
 
-              <%--/  <form id="form1" action="registration.aspx" method="post" runat="server">--%>
+                <form id="form1" action="registration.aspx" method="post" runat="server">
 
                     <div class="top-row">
                         <div class="field-wrap">
@@ -59,7 +59,8 @@
                     </div>
 
                    <asp:Button ID="Button1" runat="server" Text="Get Started" BackColor="#00CC00" ForeColor="White" OnClick="Button1_Click" />
-                <%--</form>--%>
+               
+                </form>
             </div>
 
             <div id="login">
