@@ -65,7 +65,7 @@
             <div id="login">
                 <h1>Welcome Back!</h1>
 
-               <%-- <form id="frmlogin" action="registration.aspx" method="post" runat="server">
+                <form id="frmlogin" action="registration.aspx" method="post" >
                     <div class="field-wrap">
                         <label>
                             Email Address<span class="req">*</span>
@@ -81,9 +81,9 @@
                     </div>
 
                     <p class="forgot"><a href="#">Forgot Password?</a></p>
-                <asp:Button ID="Button2" runat="server" Text="Log In" BackColor="#00CC00" ForeColor="White" />
+                <asp:Button ID="Button2"  Text="Log In" BackColor="#00CC00" ForeColor="White" />
 
-                   </form>--%>
+                   </form>
             </div>
 
         </div><!-- tab-content -->
