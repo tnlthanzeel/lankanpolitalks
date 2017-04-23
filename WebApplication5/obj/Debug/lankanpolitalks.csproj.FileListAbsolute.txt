@@ -10,9 +10,6 @@ D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\ro
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\roslyn\vbc.exe
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\WebApplication5.dll.config
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\WebApplication5.dll
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\WebApplication5.pdb
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.dll
@@ -29,5 +26,8 @@ D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\Sy
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.xml
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.xml
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\WebApplication5.dll
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\WebApplication5.pdb
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll.config
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.pdb
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.dll
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.pdb
