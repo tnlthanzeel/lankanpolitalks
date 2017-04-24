@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="registration.aspx.cs" Inherits="WebApplication5.registration" %>
 
-<!DOCTYPE html>
+<!DOCTYPE html >
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
