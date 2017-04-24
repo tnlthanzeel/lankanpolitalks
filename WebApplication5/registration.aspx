@@ -81,7 +81,8 @@
                     </div>
 
                     <p class="forgot"><a href="#">Forgot Password?</a></p>
-                <asp:Button ID="Button2"  Text="Log In" BackColor="#00CC00" ForeColor="White" />
+                    <input type="button" value="Login" name="btn_login"/>
+                <%--<asp:Button ID="Button2"  Text="Log In" BackColor="#00CC00" ForeColor="White" />--%>
 
                    </form>
             </div>
