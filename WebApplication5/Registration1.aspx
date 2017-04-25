@@ -17,38 +17,38 @@
      
                 <h1>Sign Up for Free</h1>
 
-                <form name="form1" runat="server" action="Registration1.aspx" method="post">
+                <form id="form1" action="Registration1.aspx" method="post" runat="server">
                     <div class="top-row">
                         <div class="field-wrap">
                             <label>
                                 First Name<span class="req">*</span>
                             </label>
-                            <input type="text" required autocomplete="off" />
+                            <input id="txtFname" type="text" required autocomplete="off" runat="server" />
                         </div>
 
                         <div class="field-wrap">
                             <label>
                                 Last Name<span class="req">*</span>
                             </label>
-                            <input type="text" required autocomplete="off" />
+                            <input id="txtLname" name="txtLname" type="text" required autocomplete="off" runat="server" />
                         </div>
                     </div>
                     <div class="field-wrap">
                         <label>
                             Email Address<span class="req">*</span>
                         </label>
-                        <input type="email" required autocomplete="off" />
+                        <input id="txtEmail" type="email" required autocomplete="off" runat="server" />
                     </div>
 
                     <div class="field-wrap">
                         <label>
                             Set A Password<span class="req">*</span>
                         </label>
-                        <input type="password" required autocomplete="off" />
+                        <input id="txtPassword" type="password" required autocomplete="off" runat="server" />
                     </div>
 
-                    <button type="submit" class="button button-block" >Get Started</button>
-
+                    <asp:Button ID="Button1" runat="server" Text="Submit" BackColor="#00CC00" BorderColor="#00CC00" OnClick="Button1_Click" />
+                    
                 </form>
             </div>
 

@@ -17,26 +17,25 @@
      
                 <h1>Welcome</h1>
 
-                <form name="form1" runat="server" action="Registration2.aspx" method="post">
+                 <form id="form1" action="Registration2.aspx" method="post" runat="server">
                      <div class="field-wrap">
                         <label>
                             Email Address<span class="req">*</span>
                         </label>
-                        <input type="email" required autocomplete="off" />
+                        <input id="txtEmail" type="email" required autocomplete="off" runat="server" />
                     </div>
 
                     <div class="field-wrap">
                         <label>
                             Password<span class="req">*</span>
                         </label>
-                        <input type="password" required autocomplete="off" />
+                        <input id="txtPassword" type="password" required autocomplete="off" runat="server" />
                     </div>
 
                     <p class="forgot"><a href="#">Forgot Password?</a></p>
 
-                    <button class="button button-block">Log In</button>
-
-                </form>
+                    <asp:Button ID="Button1" runat="server" Text="Button" BackColor="#00CC00" BorderColor="#00CC00" OnClick="Button1_Click" />
+                    </form>
             </div>
 
            
