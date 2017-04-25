@@ -30,3 +30,4 @@ D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\Sy
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.xml
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Release\lankapolitalks.dll
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Release\lankapolitalks.pdb
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Release\lankanpolitalks.csprojResolveAssemblyReference.cache
