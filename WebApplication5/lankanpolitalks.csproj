@@ -99,8 +99,8 @@
     <Content Include="index.html" />
     <Content Include="loginbtn.css" />
     <Content Include="Politicians.html" />
-    <Content Include="registration.aspx" />
-    <Content Include="registration.html" />
+    <Content Include="Registration1.aspx" />
+    <Content Include="Registration2.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -109,12 +109,19 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="registration.aspx.cs">
-      <DependentUpon>registration.aspx</DependentUpon>
+    <Compile Include="Registration1.aspx.cs">
+      <DependentUpon>Registration1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="registration.aspx.designer.cs">
-      <DependentUpon>registration.aspx</DependentUpon>
+    <Compile Include="Registration1.aspx.designer.cs">
+      <DependentUpon>Registration1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registration2.aspx.cs">
+      <DependentUpon>Registration2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registration2.aspx.designer.cs">
+      <DependentUpon>Registration2.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
