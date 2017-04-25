@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace lankapolitalks {
-    
-    
-    public partial class Registration2 {
-        
+namespace lankapolitalks
+{
+
+
+    public partial class Registration2
+    {
+
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace lankapolitalks {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        
+
         /// <summary>
         /// txtEmail control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace lankapolitalks {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl txtEmail;
-        
+
         /// <summary>
         /// txtPassword control.
         /// </summary>
@@ -38,7 +40,7 @@ namespace lankapolitalks {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputPassword txtPassword;
-        
+
         /// <summary>
         /// Button1 control.
         /// </summary>
