@@ -10,6 +10,9 @@ D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\ro
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\roslyn\vbc.exe
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll.config
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.pdb
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.dll
@@ -25,12 +28,9 @@ D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\Sy
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Razor.xml
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.xml
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.xml
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll.config
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll
-D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\bin\lankapolitalks.pdb
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.dll
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.pdb
+<<<<<<< HEAD
 C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\csc.exe
 C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -64,3 +64,6 @@ C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web
 C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
 C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.dll
 C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.pdb
+=======
+D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
+>>>>>>> origin/master
