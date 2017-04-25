@@ -98,6 +98,7 @@
     <Content Include="img\ravi.jpg" />
     <Content Include="index.html" />
     <Content Include="loginbtn.css" />
+    <Content Include="maithri.aspx" />
     <Content Include="Politicians.html" />
     <Content Include="Registration1.aspx" />
     <Content Include="Registration2.aspx" />
@@ -107,6 +108,13 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="maithri.aspx.cs">
+      <DependentUpon>maithri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="maithri.aspx.designer.cs">
+      <DependentUpon>maithri.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registration1.aspx.cs">
