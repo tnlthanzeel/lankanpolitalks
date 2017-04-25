@@ -67,6 +67,7 @@ C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lank
 =======
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
 >>>>>>> origin/master
+<<<<<<< HEAD
 C:\Users\abdul_000\Desktop\lankanpolitalks\WebApplication5\bin\roslyn\csc.exe
 C:\Users\abdul_000\Desktop\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\abdul_000\Desktop\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -100,3 +101,38 @@ C:\Users\abdul_000\Desktop\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.xm
 C:\Users\abdul_000\Desktop\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
 C:\Users\abdul_000\Desktop\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.dll
 C:\Users\abdul_000\Desktop\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.pdb
+=======
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\csc.exe
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\vbc.exe
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll.config
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\lankapolitalks.pdb
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Razor.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.xml
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Razor.xml
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.dll
+C:\Users\lasithsanthush\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.pdb
+>>>>>>> origin/master
