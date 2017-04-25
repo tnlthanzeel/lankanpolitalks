@@ -67,36 +67,3 @@ C:\Users\Avishka\Documents\GitHub\lankanpolitalks\WebApplication5\obj\Debug\lank
 =======
 D:\NIBM\HDCBIS\SE\web engineering project\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
 >>>>>>> origin/master
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\csc.exe
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\vbc.exe
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll.config
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\lankapolitalks.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\lankapolitalks.pdb
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Razor.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Deployment.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Razor.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Razor.xml
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.xml
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Deployment.xml
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Webpages.Razor.xml
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Helpers.xml
-D:\HD\C#\lankanpolitalks\WebApplication5\bin\System.Web.Mvc.xml
-D:\HD\C#\lankanpolitalks\WebApplication5\obj\Debug\lankanpolitalks.csprojResolveAssemblyReference.cache
-D:\HD\C#\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.dll
-D:\HD\C#\lankanpolitalks\WebApplication5\obj\Debug\lankapolitalks.pdb
