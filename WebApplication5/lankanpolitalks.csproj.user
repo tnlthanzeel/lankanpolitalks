@@ -3,6 +3,7 @@
   <PropertyGroup>
     <NameOfLastUsedPublishProfile>lankanpolitalks - Web Deploy</NameOfLastUsedPublishProfile>
     <UseIISExpress>true</UseIISExpress>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -6,10 +7,10 @@ namespace lankapolitalks
 {
     public partial class Registration2 : System.Web.UI.Page
     {
-
+        private string conString = "";
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            conString = ConfigurationManager.ConnectionStrings["lpcontext"].ConnectionString;
         }
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -18,7 +19,7 @@ namespace lankapolitalks
             {
 
 
-                SqlConnection conn = new SqlConnection("Data Source=DESKTOP-LRBQLGE;Initial Catalog=lankanpolitalks;Integrated Security=True");
+                SqlConnection conn = new SqlConnection(conString);
                 SqlCommand cmd = new SqlCommand();
                 cmd.CommandType = CommandType.Text;
                 cmd.Connection = conn;
@@ -27,8 +28,8 @@ namespace lankapolitalks
 
                 conn.Open();
 
-                string em = txtEmail.Value;
-                string pwd = txtPassword.Value;
+                String em = txtEmail.Value;
+                String pwd = txtPassword.Value;
 
 
                 cmd.CommandText = @"select [Password] from login where [Email] ='" + em + "'";
@@ -48,9 +49,7 @@ namespace lankapolitalks
 
                 }
 
-                //cmd.ExecuteNonQuery();
-                //Response.Redirect("index.html");
-                //Response.Write("Registration is success");
+
                 conn.Close();
             }
             catch (Exception ex)

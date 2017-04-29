@@ -1,25 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Data.SqlClient;
 using System.Configuration;
+using System.Data.SqlClient;
+
 
 namespace lankapolitalks
 {
     public partial class Registration1 : System.Web.UI.Page
     {
+        private string conString = "";
         protected void Page_Load(object sender, EventArgs e)
         {
+            conString = ConfigurationManager.ConnectionStrings["lpcontext"].ConnectionString;
             try
             {
                 if (IsPostBack)
                 {
-                    SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-LRBQLGE;Initial Catalog=lankanpolitalks;Integrated Security=True");
+                    SqlConnection conn = new SqlConnection(conString);
                     conn.Open();
-                    string checkuser = "select count(*) from login where FirstName='" + txtFname + "'   ";
+                    string checkuser = "select count(*) from tbl_userDetails where Fname='" + txtFname + "'   ";
                     SqlCommand com = new SqlCommand(checkuser, conn);
                     int temp = Convert.ToInt32(com.ExecuteScalar().ToString());
                     if (temp == 1)
@@ -27,30 +25,27 @@ namespace lankapolitalks
                         Response.Write("User already exsits");
 
                     }
-                    
+
 
                     conn.Close();
 
                 }
             }
-            catch
+            catch(Exception ex)
             {
-                Response.Write("Error:");
+                Response.Write(ex.Message.ToString());
             }
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-             try
+            try
             {
-                SqlConnection conn = new SqlConnection("Data Source=DESKTOP-LRBQLGE;Initial Catalog=lankanpolitalks;Integrated Security=True");
+                SqlConnection conn = new SqlConnection(conString);
                 conn.Open();
-                string inputuser = "insert into login(Fname,Lname,Email,Password) values('"+txtFname.Value+"','"+txtLname.Value+"','"+txtEmail.Value+"','"+txtPassword.Value+"')"; 
+                string inputuser = "insert into tbl_userDetails(Fname,LName,Email,Password) values('" + txtFname.Value + "','" + txtLname.Value + "','" + txtEmail.Value + "','" + txtPassword.Value + "')";
                 SqlCommand com = new SqlCommand(inputuser, conn);
-                //com.Parameters.AddWithValue("@Fname", txtFname.Value);
-                //com.Parameters.AddWithValue("@Lname", txtLname.Value);
-                //com.Parameters.AddWithValue("@Email", txtEmail.Value);
-                //com.Parameters.AddWithValue("@Password", txtPassword.Value);
+                
 
                 com.ExecuteNonQuery();
 
@@ -59,7 +54,7 @@ namespace lankapolitalks
                 Response.Write("Registration is success");
                 conn.Close();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 // Response.Write("Error:");
                 Response.Write(ex.ToString());
