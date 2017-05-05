@@ -48,6 +48,9 @@ D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\roslyn\System.
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\roslyn\vbc.exe
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\roslyn\VBCSCompiler.exe
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\roslyn\VBCSCompiler.exe.config
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\politalks.dll.config
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\politalks.dll
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\politalks.pdb
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Microsoft.AspNet.SignalR.Core.dll
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
@@ -68,8 +71,5 @@ D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Microsoft.Owin
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Newtonsoft.Json.xml
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Ninject.xml
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Ninject.Extensions.Conventions.xml
-D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\lankanpolitalks.dll.config
-D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\lankanpolitalks.dll
-D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\lankanpolitalks.pdb
-D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\lankanpolitalks.dll
-D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\lankanpolitalks.pdb
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.dll
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.pdb
