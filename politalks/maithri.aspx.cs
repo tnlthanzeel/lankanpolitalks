@@ -105,6 +105,28 @@ namespace politalks
             fillData();
         }
 
+        protected void Like_Click(object sender, EventArgs e)
+        {
+            SqlCommand com = new SqlCommand();
+            SqlConnection con = new SqlConnection(conString);
+            con.Open();
+            //  conn As New SqlConnection(ConfigurationManager.ConnectionStrings("yourConnectionString").ConnectionString)
 
+            //        com="UPDATE Table SET Like=Like+1 WHERE ID=@ID", con;
+
+            //            comm.Parameters.AddWithValue("@ID", e.CommandArgument)
+
+            //            //conn.Open()
+
+            //            comm.ExecuteNonQuery()
+
+            //        End Using
+
+            //    End Using
+
+            //    Repeater1.DataBind()
+
+            //End If
+        }
     }
 }

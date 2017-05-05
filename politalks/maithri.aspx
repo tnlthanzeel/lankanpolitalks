@@ -181,8 +181,8 @@
 
 
 
-
     <form id="form1" runat="server">
+    <asp:LinkButton ID="Like" runat="server"  CommandName="Like" CommandArgument='<%# Eval("ID") %>' OnClick="Like_Click">Like(<%# Eval("Like")%>)</asp:LinkButton>
     <div>
      <div class="formDesign">
                 <table class="auto-style5">

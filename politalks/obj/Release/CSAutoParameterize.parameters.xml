@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="lpcontext-Web.config Connection String" description="lpcontext Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-43PGOJL\TNLTHANZEEL;Integrated Security=true;Initial Catalog=lankanpolitalks" tags="SqlConnectionString">
+  <parameter name="lpcontext-Web.config Connection String" description="lpcontext Connection String used in web.config by the application to access the database." defaultValue="Data Source=politalks.database.windows.net;Integrated Security=false;Initial Catalog=lankanpolitalks" tags="SqlConnectionString">
     <parameterEntry kind="XmlFile" scope="D:\\NIBM\\HDCBIS\\SE\\web\ engineering\ project\\politalks\\politalks\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='lpcontext']/@connectionString" />
   </parameter>
 </parameters>
