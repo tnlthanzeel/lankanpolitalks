@@ -47,7 +47,7 @@
                         <input id="txtPassword" type="password" required autocomplete="off" runat="server" />
                     </div>
 
-                    <asp:Button ID="Button1" runat="server" Text="Submit" BackColor="#00CC00" BorderColor="#00CC00" OnClick="Button1_Click" />
+                    <asp:Button ID="Button1" Text="Sign up"runat="server" Text="Submit" BackColor="#00CC00" BorderColor="#00CC00" OnClick="Button1_Click" />
                     
                 </form>
             </div>
