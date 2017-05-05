@@ -34,7 +34,7 @@
 
                     <p class="forgot"><a href="#">Forgot Password?</a></p>
 
-                    <asp:Button ID="Button1" runat="server" Text="Button" BackColor="#00CC00" BorderColor="#00CC00" OnClick="Button1_Click" />
+                    <asp:Button ID="Button1" runat="server" Text="Sign in" BackColor="#00CC00" BorderColor="#00CC00" OnClick="Button1_Click" />
                     </form>
             </div>
 

@@ -73,4 +73,3 @@ D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Ninject.xml
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Ninject.Extensions.Conventions.xml
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.dll
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.pdb
-D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.csprojResolveAssemblyReference.cache
