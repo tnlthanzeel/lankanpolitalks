@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Web.UI;
@@ -9,8 +10,10 @@ namespace politalks
 {
     public partial class commentM : System.Web.UI.Page
     {
+        private string conString = "";
         protected void Page_Load(object sender, EventArgs e)
         {
+            conString = ConfigurationManager.ConnectionStrings["lpcontext"].ConnectionString;
             if (!IsPostBack)
             {
                 fillData();
@@ -18,7 +21,8 @@ namespace politalks
         }
         private void fillData()
         {
-            SqlConnection con = new SqlConnection("Data Source=DESKTOP-43PGOJL;Integrated Security=true;Initial Catalog=lankanplitalks");
+            // SqlConnection con = new SqlConnection("Data Source=DESKTOP-43PGOJL;Integrated Security=true;Initial Catalog=lankanplitalks");
+            SqlConnection con = new SqlConnection(conString);
             con.Open();
             DataTable dt = new DataTable();
             SqlDataAdapter adapt = new SqlDataAdapter("Select * from tbl_Comment1 Order by Id Desc", con);
@@ -51,8 +55,8 @@ namespace politalks
         {
             string email = (string)(Session["email"]);
 
-            SqlConnection con = new SqlConnection("Data Source=DESKTOP-LRBQLGE;Initial Catalog=lankanpolitalks;Integrated Security=True");
-
+            //SqlConnection con = new SqlConnection("Data Source=DESKTOP-LRBQLGE;Initial Catalog=lankanpolitalks;Integrated Security=True");
+            SqlConnection con = new SqlConnection(conString);
             SqlCommand cmd = new SqlCommand();
             cmd.CommandType = CommandType.Text;
             cmd.Connection = con;

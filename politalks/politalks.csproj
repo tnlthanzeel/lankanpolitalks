@@ -117,9 +117,181 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\css\font-awesome.min.css" />
+    <Content Include="assets\css\ie8.css" />
+    <Content Include="assets\css\ie9.css" />
+    <Content Include="assets\css\main.css" />
+    <Content Include="assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\js\ie\html5shiv.js" />
+    <Content Include="assets\js\ie\respond.min.js" />
+    <Content Include="assets\js\jquery.min.js" />
+    <Content Include="assets\js\main.js" />
+    <Content Include="assets\js\skel.min.js" />
+    <Content Include="assets\js\util.js" />
+    <Content Include="bin\Microsoft.AspNet.SignalR.Core.dll" />
+    <Content Include="bin\Microsoft.AspNet.SignalR.Core.xml" />
+    <Content Include="bin\Microsoft.AspNet.SignalR.SystemWeb.dll" />
+    <Content Include="bin\Microsoft.AspNet.SignalR.SystemWeb.xml" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\Microsoft.Owin.dll" />
+    <Content Include="bin\Microsoft.Owin.Host.SystemWeb.dll" />
+    <Content Include="bin\Microsoft.Owin.Host.SystemWeb.xml" />
+    <Content Include="bin\Microsoft.Owin.Security.dll" />
+    <Content Include="bin\Microsoft.Owin.Security.xml" />
+    <Content Include="bin\Microsoft.Owin.xml" />
+    <Content Include="bin\Microsoft.Web.Infrastructure.dll" />
+    <Content Include="bin\Newtonsoft.Json.dll" />
+    <Content Include="bin\Newtonsoft.Json.xml" />
+    <Content Include="bin\Ninject.dll" />
+    <Content Include="bin\Ninject.Extensions.Conventions.dll" />
+    <Content Include="bin\Ninject.Extensions.Conventions.xml" />
+    <Content Include="bin\Ninject.xml" />
+    <Content Include="bin\Owin.dll" />
+    <Content Include="bin\politalks.dll" />
+    <Content Include="bin\politalks.pdb" />
+    <Content Include="bin\roslyn\csc.exe" />
+    <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <Content Include="bin\roslyn\System.Collections.Immutable.dll" />
+    <Content Include="bin\roslyn\System.Reflection.Metadata.dll" />
+    <Content Include="bin\roslyn\vbc.exe" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe" />
+    <Content Include="css2\style.css" />
+    <Content Include="css\bootstrap.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="css\component.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="css\custom-styles.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="css\demo.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="css\font-awesome-ie7.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="css\font-awesome.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="css\normalize.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Default.aspx" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\sourcesanspro-black-webfont.svg" />
+    <Content Include="fonts\sourcesanspro-blackitalic-webfont.svg" />
+    <Content Include="fonts\sourcesanspro-bold-webfont.svg" />
+    <Content Include="fonts\sourcesanspro-light-webfont.svg" />
+    <Content Include="fonts\sourcesanspro-regular-webfont.svg" />
+    <Content Include="images\avatar.jpg" />
+    <Content Include="images\fb-like-button.png" />
+    <Content Include="images\logo.jpg" />
+    <Content Include="images\pic01.jpg" />
+    <Content Include="images\pic02.jpg" />
+    <Content Include="images\pic03.jpg" />
+    <Content Include="images\pic04.jpg" />
+    <Content Include="images\pic05.jpg" />
+    <Content Include="images\pic06.jpg" />
+    <Content Include="images\pic07.jpg" />
+    <Content Include="images\pic08.jpg" />
+    <Content Include="images\pic09.jpg" />
+    <Content Include="images\pic10.jpg" />
+    <Content Include="images\pic11.jpg" />
+    <Content Include="images\pic12.jpg" />
+    <Content Include="img\banner-image.jpg" />
+    <Content Include="img\img1.jpg" />
+    <Content Include="img\img2.jpg" />
+    <Content Include="img\img3.jpg" />
+    <Content Include="img\img4.jpg" />
+    <Content Include="img\img5.jpg" />
+    <Content Include="img\img6.jpg" />
+    <Content Include="img\likebtn.jpg" />
+    <Content Include="img\mahinda-rajapaksa-3.jpg" />
+    <Content Include="img\mahindanew.jpg" />
+    <Content Include="img\maithri1.jpg" />
+    <Content Include="img\maithripala-sirisena-3.jpg" />
+    <Content Include="img\minus-sign.png" />
+    <Content Include="img\plus-sign.png" />
+    <Content Include="img\ranil-wickremasinghe-1.jpg" />
+    <Content Include="img\ranil1.jpg" />
+    <Content Include="img\ravi.jpg" />
+    <Content Include="img\Ravi1.jpg" />
+    <Content Include="js2\index.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\html5shiv.js" />
+    <Content Include="js\jquery-1.9.1.js" />
+    <Content Include="js\modernizr-2.6.2-respond-1.1.0.min.js" />
+    <Content Include="js\respond.min.js" />
     <Content Include="maithri.aspx" />
     <Content Include="packages.config" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\sourcesanspro-black-webfont.eot" />
+    <Content Include="fonts\sourcesanspro-black-webfont.ttf" />
+    <Content Include="fonts\sourcesanspro-black-webfont.woff" />
+    <Content Include="fonts\sourcesanspro-blackitalic-webfont.eot" />
+    <Content Include="fonts\sourcesanspro-blackitalic-webfont.ttf" />
+    <Content Include="fonts\sourcesanspro-blackitalic-webfont.woff" />
+    <Content Include="fonts\sourcesanspro-bold-webfont.eot" />
+    <Content Include="fonts\sourcesanspro-bold-webfont.ttf" />
+    <Content Include="fonts\sourcesanspro-bold-webfont.woff" />
+    <Content Include="fonts\sourcesanspro-light-webfont.eot" />
+    <Content Include="fonts\sourcesanspro-light-webfont.ttf" />
+    <Content Include="fonts\sourcesanspro-light-webfont.woff" />
+    <Content Include="fonts\sourcesanspro-regular-webfont.eot" />
+    <Content Include="fonts\sourcesanspro-regular-webfont.ttf" />
+    <Content Include="fonts\sourcesanspro-regular-webfont.woff" />
+    <Content Include="Properties\PublishProfiles\politalks - Web Deploy.pubxml.user" />
+    <Content Include="scss\style.scss" />
+    <Content Include="bin\politalks.dll.config" />
+    <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <Content Include="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
+    <Content Include="assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="assets\fonts\FontAwesome.otf" />
+    <Content Include="assets\sass\base\_page.scss" />
+    <Content Include="assets\sass\base\_typography.scss" />
+    <Content Include="assets\sass\components\_author.scss" />
+    <Content Include="assets\sass\components\_blurb.scss" />
+    <Content Include="assets\sass\components\_box.scss" />
+    <Content Include="assets\sass\components\_button.scss" />
+    <Content Include="assets\sass\components\_form.scss" />
+    <Content Include="assets\sass\components\_icon.scss" />
+    <Content Include="assets\sass\components\_image.scss" />
+    <Content Include="assets\sass\components\_list.scss" />
+    <Content Include="assets\sass\components\_mini-post.scss" />
+    <Content Include="assets\sass\components\_post.scss" />
+    <Content Include="assets\sass\components\_section.scss" />
+    <Content Include="assets\sass\components\_table.scss" />
+    <Content Include="assets\sass\ie8.scss" />
+    <Content Include="assets\sass\ie9.scss" />
+    <Content Include="assets\sass\layout\_footer.scss" />
+    <Content Include="assets\sass\layout\_header.scss" />
+    <Content Include="assets\sass\layout\_intro.scss" />
+    <Content Include="assets\sass\layout\_main.scss" />
+    <Content Include="assets\sass\layout\_menu.scss" />
+    <Content Include="assets\sass\layout\_sidebar.scss" />
+    <Content Include="assets\sass\layout\_wrapper.scss" />
+    <Content Include="assets\sass\libs\_functions.scss" />
+    <Content Include="assets\sass\libs\_mixins.scss" />
+    <Content Include="assets\sass\libs\_skel.scss" />
+    <Content Include="assets\sass\libs\_vars.scss" />
+    <Content Include="assets\sass\main.scss" />
+    <None Include="Properties\PublishProfiles\politalks - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -156,6 +328,12 @@
     <Compile Include="maithri.aspx.designer.cs">
       <DependentUpon>maithri.aspx</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ranil.aspx.cs">
       <DependentUpon>ranil.aspx</DependentUpon>
@@ -186,17 +364,7 @@
       <DependentUpon>signUp.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="assets\" />
-    <Folder Include="css2\" />
-    <Folder Include="css\" />
-    <Folder Include="fonts\" />
-    <Folder Include="images\" />
-    <Folder Include="img\" />
-    <Folder Include="js2\" />
-    <Folder Include="js\" />
-    <Folder Include="scss\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

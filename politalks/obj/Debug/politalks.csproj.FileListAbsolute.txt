@@ -74,3 +74,10 @@ D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\Ninject.Extens
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.dll
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.pdb
 D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\obj\Debug\politalks.csprojResolveAssemblyReference.cache
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\css\bootstrap.css
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\css\component.css
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\css\custom-styles.css
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\css\demo.css
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\css\font-awesome-ie7.css
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\css\font-awesome.css
+D:\NIBM\HDCBIS\SE\web engineering project\politalks\politalks\bin\css\normalize.css

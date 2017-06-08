@@ -20,6 +20,7 @@ namespace politalks
             }
         }
 
+
         private void fillData()
         {
             //SqlConnection con = new SqlConnection("Data Source=DESKTOP-43PGOJL;Initial Catalog=lankanpolitalks;Integrated Security=True");
@@ -128,5 +129,7 @@ namespace politalks
 
             //End If
         }
+
+
     }
 }
